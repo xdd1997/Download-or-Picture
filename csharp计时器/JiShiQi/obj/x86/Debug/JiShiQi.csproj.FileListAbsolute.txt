@@ -1,0 +1,10 @@
+D:\File_Cshape\csharp计时器\JiShiQi\bin\Debug\JiShiQi.exe
+D:\File_Cshape\csharp计时器\JiShiQi\bin\Debug\JiShiQi.pdb
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.Timer.resources
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.Properties.Resources.resources
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.csproj.GenerateResource.Cache
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.exe
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.pdb
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.DaoJiShi.resources
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.Warn.resources
+D:\File_Cshape\csharp计时器\JiShiQi\obj\x86\Debug\JiShiQi.csprojResolveAssemblyReference.cache
